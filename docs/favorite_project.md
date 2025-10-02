@@ -89,14 +89,14 @@ This is where gamers spend their earned KCash:
 !!! success "The UI Caught My Attention Immediately"
     "When I first visited the KGeN website, I was genuinely impressed by how visually appealing it is. The design feels modern and gaming-oriented - dark themes, smooth animations, and vibrant colors that gamers love. As someone learning React, I looked at it and thought, 'I want to learn how to build interfaces like THIS.' It's the kind of UI that makes you want to explore more."
 
-!!! tip "It Feels Excitingy"
+!!! success "It Feels Excitingy"
     "Let me be honest - many projects in companies are management systems, dashboards, or internal tools. They're important but not exactly thrilling. KGeN is different. Working on quest screens, leaderboards, reward animations sounds way more exciting than building another admin panel. The energy of the project itself motivates me."
 
-!!! info "The Challenge Excites Me"
+!!! success "The Challenge Excites Me"
     "From a developer perspective, I saw the complexity and thought 'This will push me.' Real-time leaderboards, wallet integration, smooth animations - these aren't beginner tasks. Instead of feeling intimidated, I felt excited. I want to work on something that challenges me and makes me a better React developer, not just comfortable tasks."
 
 
-!!! note "Curiosity About Web3"
+!!! success "Curiosity About Web3"
     "I'll admit, I don't fully understand blockchain and Web3 yet, but KGeN made me curious to learn. It's not throwing Web3 jargon at users; it's using it quietly in the background. That approach intrigued me - how do you make complex tech invisible? I want to understand how that works."
 
 *I'm thrilled about the possibility of contributing to KGeN and learning from this innovative gaming rewards platform!* 🚀

@@ -32,7 +32,8 @@ theme:
 # Navigation structure
 nav:
   - My Favorite Team: index.md
-  - My Favorite Project: favorite_project.md
+  - Favorite Project - KGeN: favorite_project.md
+  - Favorite Project - FitBudd: fitbudd_project.md
 
 # Extensions for better formatting
 markdown_extensions:
