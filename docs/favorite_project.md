@@ -1,28 +1,28 @@
-# My Favorite Project: KGeN! 🎮✨
+# My Favorite Project: KGeN!
 
-## KGeN Project - Explained Simply 📱
+## KGeN Project - Explained Simply
 
 ### What is KGeN?
 KGeN is a gaming rewards app - It helps gamers earn real rewards (gift cards, vouchers) by playing games and completing challenges.
 
-## The Main Problem KGeN Solves 🎯
+## The Main Problem KGeN Solves
 
 **Problem**: Gamers play lots of games but can't show their skills across different platforms. They also don't get real rewards for their time and effort.
 
 **Solution**: KGeN creates a "gaming passport" where players build their reputation and earn actual money/rewards they can use.
 
-## Who Uses KGeN? 👥
+## Who Uses KGeN?
 
 - **Gamers** - Play games, complete tasks, earn rewards
 - **Game Developers** - Get more players, keep them engaged
 
-## Key Features 🌟
+## Key Features
 
-### 1. 🏆 Gaming Reputation System
+### 1. Gaming Reputation System
 - Like your LinkedIn profile, but for gaming
 - Shows your gaming skills and achievements
 
-### 2. 💰 KCash (Virtual Money)
+### 2. KCash (Virtual Money)
 Think of KCash like gaming points you can actually use:
 
 **How to Earn KCash:**
@@ -35,7 +35,7 @@ Think of KCash like gaming points you can actually use:
 - Get vouchers for shopping
 - Redeem at KStore (their rewards shop)
 
-### 3. 🎯 Quests (Tasks/Missions)
+### 3. Quests (Tasks/Missions)
 Different types of challenges:
 
 - **K-Quest**: Regular missions on the platform
@@ -49,14 +49,14 @@ Different types of challenges:
 - K-Points
 - Vouchers and coupons
 
-### 4. 🏪 KStore (Rewards Shop)
+### 4. KStore (Rewards Shop)
 This is where gamers spend their earned KCash:
 
 - Gaming gift cards
 - Gaming vouchers  
 - Shopping vouchers (for online stores)
 
-## Technologies Used 💻
+## Technologies Used 
 
 - **React**: The website interface users see
 - **React Native**: KGeN is on web as well as on app
@@ -73,7 +73,7 @@ This is where gamers spend their earned KCash:
 - **Leaderboards** - Ranking system showing top players
 - **Tournament brackets** - Visual chart showing tournament structure
 
-## Workflow 🔄
+## Workflow
 
 1. Gamer signs up on KGeN
 2. Plays games / Completes quests
@@ -84,7 +84,7 @@ This is where gamers spend their earned KCash:
 
 ---
 
-## Why I Like the KGeN Project 💝
+## Why I Like the KGeN Project
 
 !!! success "The UI Caught My Attention Immediately"
     "When I first visited the KGeN website, I was genuinely impressed by how visually appealing it is. The design feels modern and gaming-oriented - dark themes, smooth animations, and vibrant colors that gamers love. As someone learning React, I looked at it and thought, 'I want to learn how to build interfaces like THIS.' It's the kind of UI that makes you want to explore more."

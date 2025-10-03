@@ -1,10 +1,9 @@
-# My Favorite Team: The Frontend Team! 💻✨
-
-## My Experience with Different Teams 🤝
+## My Experience with Different Teams
 
 During the past two weeks at GKMIT, I had the opportunity to connect with different teams in the company, including frontend, backend, and others working on different projects. Every team member I interacted with was humble, kind, and willing to take time out of their busy schedules to guide us. I truly appreciate  the support I received from everyone.
 
-## The Team That Won My Heart ❤️
+
+# My Favorite Team: The Frontend Team!
 
 Among all, the team I felt most connected with was the **Frontend Team**, led by **Tarun Khandelwal** and comprising amazing members like:
 
@@ -20,7 +19,7 @@ Among all, the team I felt most connected with was the **Frontend Team**, led by
 - 👨‍💻 Sidharth
 - 👨‍💻 Vinayak
 
-## Why I Love the Frontend Team 🌟
+## Why I Love the Frontend Team
 
 !!! success " Clarity in Communication"
     During my conversations with them, I noticed that they explain even complex ideas in a very simple and understandable way. This clarity makes it easy to learn from them and understand the impact of their work.
