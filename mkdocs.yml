@@ -34,6 +34,7 @@ nav:
   - My Favorite Team: index.md
   - Favorite Project - KGeN: favorite_project.md
   - Favorite Project - FitBudd: fitbudd_project.md
+  - 2 Weeks Internship Report: weekly_report.md
 
 # Extensions for better formatting
 markdown_extensions:

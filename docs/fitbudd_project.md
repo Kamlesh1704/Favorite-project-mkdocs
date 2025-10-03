@@ -114,3 +114,4 @@ Like a recipe maker, but for exercises:
 
 
 *I'm thrilled about the opportunity to contribute to FitBudd and be part of transforming how fitness professionals manage their businesses!* 🚀
+
