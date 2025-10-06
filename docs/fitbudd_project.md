@@ -91,19 +91,11 @@ Like a recipe maker, but for exercises:
 ### Website/Web App:
 - **React** - The main frontend framework for the trainer dashboard
 - **Modern UI** - Clean, professional interface
-
-### Backend (Behind the Scenes):
-- **Cloud Servers** - Everything stored securely online
-- **Real-time Sync** - Changes update instantly across all devices
-- **Payment Processing** - Stripe and PayPal integration
-- **Video Hosting** - Stores and streams workout videos
-- **Database** - Manages all client data, workouts, schedules
-
 ---
 
 ## Why I Like the FitBudd Project
 
-!!! success It Solves an Obvious Problem"
+!!! success "It Solves an Obvious Problem"
     "I have trainer friends who literally use 5-6 different apps to manage clients. They're frustrated all the time. When I showed them FitBudd, they said 'THIS is what I need!' The problem is so clear and the solution makes so much sense. Working on something that genuinely helps people is way more satisfying than building features no one asked for."
 
 !!! success "The Technical Challenge Excites Me"
